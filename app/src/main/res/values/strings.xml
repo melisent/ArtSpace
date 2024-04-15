@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="art_title_1">Moonlit Night on the Dnieper</string>
+    <string name="art_author_year_1">Arkhip Kuindzhi (1880)</string>
+
+    <string name="art_title_2">The Ninth Wave</string>
+    <string name="art_author_year_2">Ivan Aivazovsky (1850)</string>
+
+    <string name="art_title_3">Shadow on the sea in Purvile</string>
+    <string name="art_author_year_3">Klod Mone (1882)</string>
+</resources>
